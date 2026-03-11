@@ -1,4 +1,6 @@
 cmake-build-release
 target
 out
+build
+.cache
 
